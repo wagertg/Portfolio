@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to Travis Wager's Portfolio 👨‍💻</h1>
 
 <p align="center">
-<strong>Let's connect!</strong> <a href="https://www.linkedin.com/in/traviswager/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:traviswager@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/traviswager/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:traviswager@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 Hello and welcome! I'm Travis, a passionate Software Engineer with proficiency in both front-end and back-end development. My tech toolkit includes HTML, CSS, JavaScript, React, Redux, Node.js, Express, Postgres, SQL, Sequelize, and Git. 
