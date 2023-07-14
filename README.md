@@ -19,7 +19,7 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 <h3 align="left">🚀 E-Commerce Space Travel</h3>
 <p align="center">
 <a href="https://github.com/wagertg/stackathon">
-<img src="./Screenshots//space-home.jpg"/>
+<img src="./Snapshots//space-home.jpg"/>
 </a>
 </p>
 
@@ -30,7 +30,7 @@ Created an immersive platform catering to the needs of space aficionados. This p
 <h3 align="left">📊 Project Management App</h3>
 <p align="center">
 <a href="https://github.com/wagertg/capstone">
-<img src="./Screenshots/projectpioneer-3.jpg"/>
+<img src="./Snapshots/projectpioneer-3.jpg"/>
 </a>
 </p>
 
@@ -41,7 +41,7 @@ Contributed to the development of a robust project management tool designed to e
 <h3 align="left">🎓 Campus and Student Admin Dashboard Project</h3>
 <p align="center">
 <a href="https://github.com/wagertg/edu-dashboard">
-<img src="./Screenshots/edu-student-profile.jpg"/>
+<img src="./Snapshots/edu-student-profile.jpg"/>
 </a>
 </p>
 
