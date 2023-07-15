@@ -23,7 +23,7 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 </a>
 </p>
 
-Created an immersive platform catering to the needs of space aficionados. This platform lets users plan and book interplanetary journeys, taking the E-commerce experience to another galaxy!
+Created an immersive platform catering to the needs of space enthusiasts. This platform lets users plan and book interplanetary journeys, taking the E-commerce experience to another galaxy!
 
 ---
 
