@@ -14,6 +14,20 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 
 ---
 
+<h2 align="center">💼 Current Intership - Multidiscplinary Association for Psychedelic Studies (MAPS)</h2>
+
+### 🪬 Fiscal Sponsorships](https://github.com/wagertg/MAPS)
+<p align="center">
+<a href="https://github.com/wagertg/MAPS">
+<img src="./Snapshots//space-home.jpg"/>
+</a>
+</p>
+
+Creating the MAPS Fiscal Sponsorships pages for grassroots organizations to review legacy and
+current projects as well as applying for sponsorship with the organization.
+
+---
+
 <h2 align="center">💼 Featured Projects</h2>
 
 ### [🚀 E-Commerce Space Travel](https://github.com/wagertg/stackathon)
