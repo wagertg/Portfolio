@@ -16,10 +16,10 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 
 <h2 align="center">💼 Current Intership - Multidiscplinary Association for Psychedelic Studies (MAPS)</h2>
 
-### 🪬 Fiscal Sponsorships](https://github.com/wagertg/MAPS)
+### 🪬 [Fiscal Sponsorships](https://github.com/wagertg/MAPS)
 <p align="center">
 <a href="https://github.com/wagertg/MAPS">
-<img src="./Snapshots//IMG_1498.jpg"/>
+<img src="./Snapshots//IMG_1489.jpg"/>
 </a>
 </p>
 
