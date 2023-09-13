@@ -19,7 +19,7 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 ### 🪬 Fiscal Sponsorships](https://github.com/wagertg/MAPS)
 <p align="center">
 <a href="https://github.com/wagertg/MAPS">
-<img src="./Snapshots//space-home.jpg"/>
+<img src="./Snapshots//IMG_1498.jpg"/>
 </a>
 </p>
 
