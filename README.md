@@ -23,7 +23,7 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 </a>
 </p>
 
-Developing the MAPS Fiscal Sponsorships pages for grassroots organizations to review legacy and
+Currently developing the MAPS Fiscal Sponsorships pages for grassroots organizations to review legacy and
 current projects as well as applying for sponsorship with the organization.
 
 ---
