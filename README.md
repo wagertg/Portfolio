@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/traviswager/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="mailto:traviswager@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-Hello and welcome! I'm Travis, a passionate Software Engineer with proficiency in both front-end and back-end development. My tech toolkit includes HTML, CSS, JavaScript, React, Redux, Node.js, Express, Postgres, SQL, Sequelize, and Git. 
+Hello and welcome! I'm Travis, a passionate Web Developer with proficiency in both front-end and back-end technologies. My tech toolkit includes HTML, CSS, JavaScript, React, Redux, Node.js, Express, Postgres, SQL, Sequelize, and Git. 
 
 Through my projects, you will discover my dedication and skills applied across the spectrum of Fullstack Web Development. Each one is a demonstration of my technical capabilities, my understanding of user-centric design, and my ability to create scalable and maintainable software solutions.
 
