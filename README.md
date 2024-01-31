@@ -14,7 +14,7 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 
 ---
 
-<h2 align="center">🗂Current Intership</h2>
+<h2 align="center">🗂Intership</h2>
 
 ### 🪬 [Multidiscplinary Association for Psychedelic Studies (MAPS)](https://github.com/wagertg/MAPS)
 <p align="center">
@@ -23,7 +23,7 @@ So, please, take a look around. I hope you enjoy exploring my work as much as I 
 </a>
 </p>
 
-Currently developing the MAPS Fiscal Sponsorships pages for grassroots organizations to review legacy and
+Developed the MAPS Fiscal Sponsorships pages for grassroots organizations to review legacy and
 current projects as well as applying for sponsorship with the organization.
 
 ---
